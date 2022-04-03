@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "sclass.h": "c",
+        "sstring.h": "c"
+    }
+}
